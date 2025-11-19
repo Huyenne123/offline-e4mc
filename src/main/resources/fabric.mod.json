@@ -1,12 +1,12 @@
 {
 	"schemaVersion": 1,
 	"id": "e4mc-offline",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"name": "E4MC Offline Reborn",
-	"description": "Literally gives more control over your hosted world.",
+	"description": "Literally gives more control over your hosted world. (ported to 1.21.6 by huyenne)",
 	"authors": [
 		{
-		  "name": "SyanicXD",
+		  "name": "SyanicXD and huyenne",
 		  "contact": {
 			"email": "truesyanic@proton.me"
 		  }
